@@ -240,7 +240,8 @@ After running locally or deploying to AWS:
 5. Open a Pull Request.
 
 ---
-
+NIPUN BHARDWAJ
+Cloud Engineer | AWS | DevOps | Generative AI | Agengic AI engineer
 ## 📄 License
 
 This project is open-source. Refer to the repository license for usage terms.
