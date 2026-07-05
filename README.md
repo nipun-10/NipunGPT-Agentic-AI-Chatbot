@@ -239,6 +239,9 @@ After running locally or deploying to AWS:
 4. Push to the branch (`git push origin feature/AmazingFeature`).
 5. Open a Pull Request.
 
+⭐ If you found this project helpful, consider giving the repository a star!
+
+
 ---
 NIPUN BHARDWAJ
 Cloud Engineer | AWS | DevOps | Generative AI | Agengic AI engineer
