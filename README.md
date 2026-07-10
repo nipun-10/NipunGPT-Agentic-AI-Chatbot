@@ -1,4 +1,4 @@
-# 🧠 NipunGPT - Agentic AI Chatbot
+# 🧠 NipunGPT - Agentic AI Assistant
 
 NipunGPT is a premium-designed, feature-rich agentic chatbot built on top of **FastAPI**, **LangGraph**, and the **Gemini 2.5** suite of models. It is designed to act as an advanced AI assistant similar to ChatGPT, capable of executing complex workflows, accessing long-term memory, performing math calculations, conducting web searches, and running RAG (Retrieval-Augmented Generation) on uploaded documents.
 
